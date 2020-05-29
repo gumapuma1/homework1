@@ -17,4 +17,6 @@ int main() {
     b=c;
 
     cout << "a = " << a << " b = " << b << endl;
+
+    return 0;
 }
