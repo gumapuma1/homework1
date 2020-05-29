@@ -1,3 +1,4 @@
+//Вывести на экран Первую букву имени из символов "*" (звездочка)
 #include <iostream>
 
 using namespace std;
